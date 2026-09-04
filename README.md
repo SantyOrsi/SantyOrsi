@@ -71,16 +71,17 @@ I also take on freelance/client work outside my main role — recent projects in
 |---|---|---|
 | [Nuevo Destino Viajes](#) | Public website + admin panel for a travel & transfers company | JS, HTML/CSS |
 | [App-ND](#) | Mobile app for Nuevo Destino Viajes | React Native, Expo |
-| [Marketplace de Autos](#) | Vehicle marketplace/classifieds | HTML, CSS, JS, Supabase |
+| [RPM](#) | Vehicle marketplace/classifieds | HTML, CSS, JS, Supabase |
 
 ---
 
 ## 📫 Get in touch
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:orsisanty@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
+📧 **orsisanty@gmail.com**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SantyOrsi&show_icons=true&theme=dark&hide_border=true" />
