@@ -1,6 +1,6 @@
 <h1 align="center">Santiago Orsi</h1>
 <p align="center">
-  <b>Frontend Developer</b> · Systems Engineering Student · Rosario, Argentina
+  <b>FullStack Developer</b> · Systems Engineering Student · Rosario, Argentina
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I also take on freelance/client work outside my main role — recent projects in
 - 🔭 Currently working on: public website + internal management tools for Nuevo Destino Viajes
 - 🌱 Currently studying: Systems Engineering (UTN)
 - 🌎 Based in Rosario, Santa Fe, Argentina
-- 💬 Ask me about: frontend development, JavaScript, web performance, UI/UX
+
 
 ---
 
